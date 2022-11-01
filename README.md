@@ -3,6 +3,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0126kjw&count_bg=%23958AED&title_bg=%23706D6D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
+### Backend Engineer
+- I am from Korea and I am studying to dream of becoming a backend engineer.
+
 <div align=center>
  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://0126kjw.github.io/)](https://0126kjw.github.io/)
