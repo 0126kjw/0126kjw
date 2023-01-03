@@ -5,7 +5,6 @@
 </div>
 
 ### Backend Engineer
-- I am from Korea and I am studying to dream of becoming a backend engineer.
 
 <div align=center>
  
